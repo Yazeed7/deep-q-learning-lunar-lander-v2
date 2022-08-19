@@ -1,6 +1,10 @@
-# Project 2 ReadMe
+# Deep Q-Learning for LunarLander-v2
 
-https://github.gatech.edu/storage/user/51271/files/5331b6e4-0027-4698-ae16-d4c1f24396f7
+In this project, I have developed a DQN model from scratch, using PyTorch, to solve Open AI Gym's LunarLander-v2 environment and consistantly land the probe.
+
+
+https://user-images.githubusercontent.com/61038456/185651561-6b9342c7-99d8-453c-a93d-f4d25e4887f0.mp4
+
 
 The code provided in [main.py](main.py) replicates the figures used in Project 2's report. It requires the following depedencies:
 ~~~
